@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2085" format="1">
+  <advance width="170"/>
+  <unicode hex="2085"/>
+  <outline>
+    <contour>
+      <point x="157.422" y="266.344" type="line" smooth="no"/>
+      <point x="157.422" y="238.219" type="line" smooth="no"/>
+      <point x="85.1406" y="238.219" type="line" smooth="no"/>
+      <point x="58.7031" y="135.141" type="line" smooth="no"/>
+      <point x="89.0479" y="133.476"/>
+      <point x="111.684" y="127.758"/>
+      <point x="127.328" y="117.562" type="curve" smooth="yes"/>
+      <point x="136.658" y="111.48"/>
+      <point x="143.702" y="103.364"/>
+      <point x="147.156" y="93.9375" type="curve" smooth="yes"/>
+      <point x="150.61" y="84.5068"/>
+      <point x="150.167" y="74.2451"/>
+      <point x="146.734" y="65.1094" type="curve" smooth="yes"/>
+      <point x="139.875" y="46.833"/>
+      <point x="123.101" y="32.0576"/>
+      <point x="100.328" y="20.6719" type="curve" smooth="yes"/>
+      <point x="77.5557" y="9.28125"/>
+      <point x="48.1914" y="1.48145"/>
+      <point x="13.8438" y="0" type="curve" smooth="no"/>
+      <point x="12.5781" y="28.125" type="line" smooth="no"/>
+      <point x="43.3447" y="29.4521"/>
+      <point x="69.1709" y="36.5186"/>
+      <point x="87.8125" y="45.8438" type="curve" smooth="yes"/>
+      <point x="106.454" y="55.165"/>
+      <point x="117.322" y="67.0205"/>
+      <point x="120.297" y="74.9531" type="curve" smooth="yes"/>
+      <point x="121.787" y="78.917"/>
+      <point x="121.857" y="81.6504"/>
+      <point x="120.859" y="84.375" type="curve" smooth="yes"/>
+      <point x="119.862" y="87.0996"/>
+      <point x="117.48" y="90.3643"/>
+      <point x="112" y="93.9375" type="curve" smooth="yes"/>
+      <point x="101.045" y="101.079"/>
+      <point x="77.626" y="107.719"/>
+      <point x="40.7031" y="107.719" type="curve" smooth="yes"/>
+      <point x="22.5625" y="107.719" type="line" smooth="no"/>
+      <point x="63.2031" y="266.344" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>238</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>14</integer>
+	    <key>width</key>
+	    <integer>144</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

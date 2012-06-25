@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="325"/>
+  <unicode hex="00c8"/>
+  <outline>
+    <contour>
+      <point x="164.771" y="630.22" type="line" smooth="no"/>
+      <point x="150.709" y="605.892" type="line" smooth="no"/>
+      <point x="298.365" y="520.672" type="line" smooth="no"/>
+      <point x="312.426" y="545" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="147.855" y="504.984" type="line" smooth="no"/>
+      <point x="306.48" y="504.984" type="line" smooth="no"/>
+      <point x="306.48" y="476.859" type="line" smooth="no"/>
+      <point x="169.512" y="476.859" type="line" smooth="no"/>
+      <point x="106.088" y="240.047" type="line" smooth="no"/>
+      <point x="202.98" y="240.047" type="line" smooth="no"/>
+      <point x="202.98" y="211.922" type="line" smooth="no"/>
+      <point x="98.4961" y="211.922" type="line" smooth="no"/>
+      <point x="49.2773" y="28.125" type="line" smooth="no"/>
+      <point x="239.543" y="28.125" type="line" smooth="no"/>
+      <point x="239.543" y="0" type="line" smooth="no"/>
+      <point x="12.5742" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>212</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>477</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

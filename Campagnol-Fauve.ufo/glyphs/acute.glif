@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="189"/>
+  <unicode hex="00b4"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="161.297" y="500" type="line" smooth="no"/>
+      <point x="175.359" y="475.672" type="line" smooth="no"/>
+      <point x="27.7031" y="390.453" type="line" smooth="no"/>
+      <point x="13.6406" y="414.781" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

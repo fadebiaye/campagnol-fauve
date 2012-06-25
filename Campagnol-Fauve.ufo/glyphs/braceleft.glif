@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="533"/>
+  <unicode hex="007b"/>
+  <outline>
+    <contour>
+      <point x="271.102" y="499.922" type="line" smooth="no"/>
+      <point x="271.102" y="73.125" type="line" smooth="no"/>
+      <point x="469.242" y="504.562" type="line" smooth="no"/>
+      <point x="492.438" y="493.856" type="line" smooth="no"/>
+      <point x="492.438" y="499.781" type="line" smooth="no"/>
+      <point x="520.656" y="499.781" type="line" smooth="no"/>
+      <point x="520.656" y="0" type="line" smooth="no"/>
+      <point x="492.531" y="0" type="line" smooth="no"/>
+      <point x="492.531" y="150.047" type="line" smooth="no"/>
+      <point x="337.316" y="150.047" type="line" smooth="no"/>
+      <point x="266.836" y="1" type="line" smooth="no"/>
+      <point x="242.977" y="1" type="line" smooth="no"/>
+      <point x="242.977" y="470.953" type="line" smooth="no"/>
+      <point x="167.703" y="470.953" type="line" smooth="no"/>
+      <point x="41.4434" y="0" type="line" smooth="no"/>
+      <point x="12.3438" y="0" type="line" smooth="no"/>
+      <point x="138.594" y="470.953" type="line" smooth="no"/>
+      <point x="53.7969" y="470.953" type="line" smooth="no"/>
+      <point x="53.7969" y="499.078" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="350.359" y="178.172" type="line" smooth="yes"/>
+      <point x="492.531" y="178.172" type="line" smooth="no"/>
+      <point x="492.441" y="487.539" type="line" smooth="no"/>
+      <point x="349.783" y="177.171" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>150</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>471</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>243</integer>
+	    <key>width</key>
+	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>493</integer>
+	    <key>width</key>
+	    <integer>28</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

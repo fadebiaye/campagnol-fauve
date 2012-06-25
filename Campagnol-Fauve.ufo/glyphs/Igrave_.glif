@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="1">
+  <advance width="187"/>
+  <unicode hex="00cc"/>
+  <outline>
+    <contour>
+      <point x="58.6699" y="630.22" type="line" smooth="no"/>
+      <point x="44.6074" y="605.892" type="line" smooth="no"/>
+      <point x="192.264" y="520.672" type="line" smooth="no"/>
+      <point x="206.324" y="545" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="12.4512" y="0" type="line" smooth="no"/>
+      <point x="147.267" y="503.172" type="line" smooth="no"/>
+      <point x="174.549" y="496" type="line" smooth="no"/>
+      <point x="41.5527" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>483</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

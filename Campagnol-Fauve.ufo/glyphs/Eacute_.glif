@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="1">
+  <advance width="319"/>
+  <unicode hex="00c9"/>
+  <outline>
+    <contour>
+      <point x="290.056" y="627.22" type="line" smooth="no"/>
+      <point x="304.118" y="602.892" type="line" smooth="no"/>
+      <point x="156.461" y="517.672" type="line" smooth="no"/>
+      <point x="142.4" y="542" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="147.828" y="504.984" type="line" smooth="no"/>
+      <point x="306.453" y="504.984" type="line" smooth="no"/>
+      <point x="306.453" y="476.859" type="line" smooth="no"/>
+      <point x="169.484" y="476.859" type="line" smooth="no"/>
+      <point x="106.062" y="240.047" type="line" smooth="no"/>
+      <point x="202.953" y="240.047" type="line" smooth="no"/>
+      <point x="202.953" y="211.922" type="line" smooth="no"/>
+      <point x="98.4688" y="211.922" type="line" smooth="no"/>
+      <point x="49.25" y="28.125" type="line" smooth="no"/>
+      <point x="239.516" y="28.125" type="line" smooth="no"/>
+      <point x="239.516" y="0" type="line" smooth="no"/>
+      <point x="12.5469" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>212</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>477</integer>
+	    <key>width</key>	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>518</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>13</integer>
+	    <key>width</key>
+	    <integer>292</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

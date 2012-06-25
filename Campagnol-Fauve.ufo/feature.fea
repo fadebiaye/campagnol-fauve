@@ -1,0 +1,34 @@
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\h \i \a \c \e \b \d \o \p \q \s \u \v \m \w \x \H \O \acute \A \space \n \f \g \j \k 
+	\l \r \t \z \B \C \D \E \F \G \I \J \K \L \M \N \P \Q \R \S \T \U \V \W \X \Y \Z \zero \one \two 
+	\three \four \five \six \seven \eight \nine \question \exclam \quotesingle \grave 
+	\y \eacute \ampersand \at \period \sterling \numbersign \uni00B5 \hyphen \slash 
+	\parenleft \parenright \guillemotleft \guillemotright \section \paragraph 
+	\uni2081 \uni2082 \uni2083 \uni2084 \uni2085 \uni2086 \uni2087 \uni2088 \uni2089 
+	\uni2080 \uni2074 \uni2075 \uni2076 \uni2077 \uni2078 \uni2079 \uni2070 \uni2071 
+	\less \greater \plus \semicolon \colon \uni00B2 \uni00B3 \uni00B9 \onequarter 
+	\onehalf \ccedilla \AE \OE \egrave \agrave \aacute \ograve \oacute \ugrave \uacute 
+	\Agrave \Aacute \Ccedilla \Aring \Ugrave \Uacute \Ograve \Oacute \Egrave \Eacute 
+	\igrave \iacute \dollar \degree \percent \questiondown \threequarters 
+	\backslash \oe \ae \uni2150 \uni2151 \uni2152 \onethird \twothirds \uni2155 
+	\uni2156 \uni2157 \uni2158 \uni2159 \uni215A \oneeighth \threeeighths 
+	\fiveeighths \seveneighths \uni215F \equal \uni2460 \uni2461 \uni2462 \uni2463 
+	\uni2464 \uni2465 \uni2466 \uni2467 \uni2468 \uni2469 \asciitilde \Euro \uni2474 
+	\uni2475 \uni2476 \uni2477 \uni2478 \uni2479 \uni247A \uni247B \uni247C \uni247D 
+	\Oslash \comma \bracketleft \bracketright \braceleft \bar \braceright \asterisk 
+	\registered \asciicircum \ecircumflex \ucircumflex \ocircumflex \acircumflex 
+	\Igrave \Iacute \Icircumflex \Idieresis \Ocircumflex \Otilde \dieresis 
+	\Ecircumflex \Edieresis \Ntilde \Odieresis \Ucircumflex \Udieresis \atilde 
+	\adieresis \aring \edieresis \icircumflex \idieresis \udieresis \germandbls 
+	\otilde \odieresis \quoteright \quoteleft \quotedbl \underscore \cedilla 
+	\oslash ];
+@GDEF_Ligature = [];
+@GDEF_Mark = [];
+@GDEF_Component = [];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+
+} GDEF;
+
